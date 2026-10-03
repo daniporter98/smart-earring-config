@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/firmware.bin",
+  "url": "https://raw.githubusercontent.com/daniporter98/smart-earring-config/main/firmware.bin",
   "changelog": "גרסה ראשונית - תמיכה בחיסכון בסוללה, גלריית ענן ו-OTA"
 }
